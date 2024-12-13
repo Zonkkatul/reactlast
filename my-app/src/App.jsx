@@ -76,7 +76,7 @@ function App() {
       
       <div className="main-content">
         <div className="text-container">
-          <h1>Ask me a question about {`{ Your topic }`}</h1>
+          <h1>Ask me a question about {`{ ONE API TO RULE THEM ALL!! }`}</h1>
           <div className="search-row">
             <input
               type="text"
